@@ -24,7 +24,7 @@
 
     <!-- RIGHT: image / gif -->
     <td align="center" width="40%">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/20251027_2358_New%20Video_simple_compose_01k8ketsqceh597dvqppy8kwnf.gif" width="260">
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/20251027_2358_New%20Video_simple_compose_01k8ketsqceh597dvqppy8kwnf.gif" width="260">
       <!-- You can replace with any local file, e.g. assets/stack/about-right.gif -->
     </td>
   </tr>
@@ -42,41 +42,41 @@
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/tensorflow.png" width="48" alt="TensorFlow"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/tensorflow.png" width="48" alt="TensorFlow"><br/>
       <sub><b>TensorFlow</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/pytorch.png" width="48" alt="PyTorch"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/pytorch.png" width="48" alt="PyTorch"><br/>
       <sub><b>PyTorch</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/sklearn.png" width="48" alt="scikit-learn"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/sklearn.png" width="48" alt="scikit-learn"><br/>
       <sub><b>scikit-learn</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/pandas.png" width="48" alt="Pandas"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/pandas.png" width="48" alt="Pandas"><br/>
       <sub><b>Pandas</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/numpy.png" width="48" alt="NumPy"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/numpy.png" width="48" alt="NumPy"><br/>
       <sub><b>NumPy</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/flask.png" width="48" alt="Flask"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/flask.png" width="48" alt="Flask"><br/>
       <sub><b>Flask</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/streamlit.png" width="48" alt="Streamlit"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/streamlit.png" width="48" alt="Streamlit"><br/>
       <sub><b>Streamlit</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/docker.png" width="48" alt="Docker"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/docker.png" width="48" alt="Docker"><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/aws.gif" width="48" alt="AWS"><br/>
+      <img src="https://github.com/revron23/revron23/blob/main/assets/stack/aws.gif" width="48" alt="AWS"><br/>
       <sub><b>AWS</b></sub>
     </td>
   </tr>
@@ -128,7 +128,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/yy3.gif" width="400" alt="AI Wave Animation"/>
+  <img src="https://github.com/revron23/revron23/blob/main/assets/stack/yy3.gif" width="400" alt="AI Wave Animation"/>
 </p>
 
 <p align="center">
