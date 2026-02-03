@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/ai-hero-2.gif" width="420" alt="AI Neural Brain Animation"/>
+  <img src="https://github.com/revron23/revron23/blob/main/assets/stack/ai-hero-2.gif" width="420" alt="AI Neural Brain Animation"/>
 </p>
 
 ---
